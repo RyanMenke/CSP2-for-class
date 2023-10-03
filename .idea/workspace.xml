@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="CS2_Project_2" targetName="CS2_Project_2" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="e2ccd157-7adf-42b2-adb0-082ff6918b0d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1ZjO5iblYwlCf416HKehR3YDjUZ" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="com.intellij.ide.scratch.LRUPopupBuilder$1/New Scratch File" value="GitIgnore" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="CS2_Project_2" type="CMakeRunConfiguration" factoryName="Application" WORKING_DIR="file://$PROJECT_DIR$" PASS_PARENT_ENVS_2="true" PROJECT_NAME="CS2_Project_2" TARGET_NAME="CS2_Project_2" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="CS2_Project_2" RUN_TARGET_NAME="CS2_Project_2">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="e2ccd157-7adf-42b2-adb0-082ff6918b0d" name="Default Changelist" comment="" />
+      <created>1585348854836</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585348854836</updated>
+      <workItem from="1585348860004" duration="48838000" />
+      <workItem from="1587001430567" duration="166000" />
+      <workItem from="1587502565598" duration="2028000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585450964384">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="112" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1585450964384" />
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser" timestamp="1585431115113">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="533" y="173" key="#com.intellij.ide.util.MemberChooser/0.0.1440.900@0.0.1440.900" timestamp="1585431115113" />
+    <state width="408" height="466" key="DebuggerActiveHint" timestamp="1585363599972">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="408" height="466" key="DebuggerActiveHint/0.0.1440.900@0.0.1440.900" timestamp="1585363599972" />
+    <state width="1398" height="228" key="GridCell.Tab.0.bottom" timestamp="1585882895904">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="228" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585882895904" />
+    <state width="1398" height="228" key="GridCell.Tab.0.center" timestamp="1585882895902">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="228" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1585882895902" />
+    <state width="1398" height="228" key="GridCell.Tab.0.left" timestamp="1585882895901">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="228" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1585882895901" />
+    <state width="1398" height="228" key="GridCell.Tab.0.right" timestamp="1585882895903">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="228" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1585882895903" />
+    <state width="1398" height="228" key="GridCell.Tab.1.bottom" timestamp="1585882895908">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="228" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1585882895908" />
+    <state width="1398" height="228" key="GridCell.Tab.1.center" timestamp="1585882895906">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="228" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1585882895906" />
+    <state width="1398" height="228" key="GridCell.Tab.1.left" timestamp="1585882895905">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="228" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1585882895905" />
+    <state width="1398" height="228" key="GridCell.Tab.1.right" timestamp="1585882895907">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state width="1398" height="228" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1585882895907" />
+    <state x="386" y="85" width="667" height="729" key="find.popup" timestamp="1585534146868">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="386" y="85" width="667" height="729" key="find.popup/0.0.1440.900@0.0.1440.900" timestamp="1585534146868" />
+    <state x="385" y="112" width="670" height="676" key="search.everywhere.popup" timestamp="1585531188863">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="385" y="112" width="670" height="676" key="search.everywhere.popup/0.0.1440.900@0.0.1440.900" timestamp="1585531188863" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/main.cpp</url>
+          <line>546</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/main.cpp</url>
+          <line>531</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/main.cpp</url>
+          <line>501</line>
+          <option name="timeStamp" value="13" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="com.jetbrains.cidr.execution.debugger.OCBreakpointType">
+          <url>file://$PROJECT_DIR$/src/main.cpp</url>
+          <line>510</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
